@@ -25,6 +25,7 @@ The materials are provided to support transparency and reproducibility. The repo
 | `scripts/RMSE_comparison.py` | Python script used to calculate or compare RMSE-based evaluation results. |
 | `data/RMSE_vs_f1.xlsx` | Spreadsheet containing comparison results between RMSE and F1-based evaluation. |
 | `data/Year_outputs.xlsx` | Spreadsheet containing year-related outputs used in the evaluation. |
+| `data/libris_searchstrings.txt` | Text file with LIBRIS search strings to obtain novels with time periods |
 
 ## Data Description
 
