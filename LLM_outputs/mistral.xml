@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+<analysis>
+<title>LB_Anonym_MosterVivica_1872_faksimil.txt</title>
+ <year_start>18th Century</year_start>
+   <year_end>Early 19th Century</year_end>
+   <explanation>The narrative contains elements that suggest it takes place in the late 18th or early 19th century. 
+   The presence of "mrs" before a woman's name, such as "Mrs Harriet Beecher Stowe," indicates a period after the formalization of the title "mistress" into "mrs." 
+   Additionally, the existence of books like "Barnkalaset i det gröna" (Children's party in the green) and "Berättelser om mammas snälla kattor" (Stories about mommy's nice cats), which are referenced in the text, further supports a setting in the early 19th century as these types of books were popular during this time period. </explanation>
+</analysis>
+<analysis>
+<title>LB_SoderbergH_DoktorGlas_1905_etext.txt</title>
+ <year_start>1924</year_start>
+   <year_end>1927</year_end>
+   <explanation>The narrative takes place during the autumn of 1924 based on the line "7 oktober" in the text. The reference to the state of the trees, specifically mentioning that the chestnut tree outside the window is already bare and black, suggests that it's late fall, most likely October. However, the diary-like structure of the narrative implies a span of time greater than a single day, suggesting the narrative could continue into 1925 or later, but the text does not provide enough information to confirm this. The details about the weather, people mentioned, and events such as Midsommar (Midsummer's Eve) and All Saints' Day also imply a time frame during the early 1920s in Sweden.</explanation>
+</analysis>
+<analysis>
+<title>LB_ZeipelCvon_DeSammansvurne_1849_faksimil.txt</title>
+ <year_start>1560</year_start>
+   <year_end>1599</year_end>
+   <explanation>The narrative takes place during the reign of King John III of Sweden (1568-1592), as evident from the characters and events described. The main character, Bernhard Sture, was a prominent figure in Swedish politics during this time period. The plot revolves around events related to the Sturefejd, a series of power struggles and rebellions that took place between 1567 and 1598. The text also mentions King Charles IX (ruled 1568-1611), who is not present but plays an important role as the father of the main antagonist, Duke Charles (Carl), who is depicted as being crowned king in the narrative. These details point to a time period between the start of John III's reign and the crowning of Charles IX's son as king.</explanation>
+</analysis>
+<analysis>
+<title>LB_SoderbergH_DenAllvarsamma_1912_etext.txt</title>
+ <year_start>1890</year_start>
+   <year_end>1892</year_end>
+   <explanation> The text provides no explicit dates, but the details in the narrative suggest that it takes place around the early 1890s. The protagonist mentions going away for a period during the fall of four years prior to his departure, which would place the start of the relationship between him and Lydia around late 1892. Given that relationships don't typically begin at their ends, it is reasonable to assume that the narrative begins in the previous year (1890). The end of the narrative is left ambiguous, but based on the absence of any mention of significant events post-departure, it can be assumed that the narrative concludes shortly after the protagonist's departure. </explanation>
+</analysis>
+<analysis>
+<title>LB_NordstromL_Borgare_1909_etext.txt</title>
+ <year_start>The estimated start year of the narrative is around the late 19th century.</year_start>
+   <year_end>The estimated end year of the narrative is also around the late 19th century.</year_end>
+   <explanation>The text mentions several details that suggest a late 19th-century setting. For instance, the mention of Tomas Lack, who is likely a fictional character, implies a historical context where such a character could have existed. Additionally, the use of colloquial expressions like "snarka" (to snore) and "stig aldrig upp om mornarna!" (Don't get up early!) are common in late 19th-century Swedish dialects. Furthermore, the author's emphasis on certain societal norms and values, such as the treatment of women, also align with the values and mores of the late 19th century.</explanation>
+</analysis>
+<analysis>
+<title>LB_EngstromA_Drufklasar_1898_faksimil.txt</title>
+ <year_start>1880</year_start>
+   <year_end>1900</year_end>
+   <explanation>The narrative appears to take place during the late 19th century. The main character, Kolingen, is referred to as a "stationsinspektör" which suggests that he works for the Swedish State Railways, an institution that was established in 1856 but underwent significant expansion and modernization during the latter part of the 19th century. Additionally, the mention of Phyllén coming home with several fine bottles indicates that he may be a member of the upper class, which was expanding during this time period due to industrialization. Furthermore, the use of colloquial Swedish and some archaic expressions also supports the setting in the late 19th century.</explanation>
+</analysis>
+<analysis>
+<title>LB_BremerF_Grannarne_2000_etext.txt</title>
+ <year_start>1837</year_start>
+   <year_end>1837</year_end>
+   <explanation>The narrative appears to be set in the year 1837. This is based on several details in the text: The play "Grannarne" being mentioned, which was first performed in Stockholm in 1837. Also, the dikten (poem) that was printed in Dagligt Allehanda after Aftonbladet's recension of "Grannarne" on March 8, 1837. Additionally, the context suggests that the narrative is happening around the time when the young Mrs. is writing letters to her mother, which aligns with the timeframe provided by these events. </explanation>
+</analysis>
+<analysis>
+<title>LB_BenedictssonV_FruMarianne_1887_etext.txt</title>
+ <year_start>1864</year_start>
+   <year_end>1866</year_end>
+   <explanation>The story takes place during the second half of the 19th century, as evidenced by the mention of the Riksdag (Swedish parliament) elections in 1866. Additionally, the characters' fashion and social norms are consistent with this time period. The author August Strindberg was born in 1849 and published the novella "The Red Room" in 1879, so it is reasonable to assume that the story takes place a few years before its publication.</explanation>
+</analysis>
+<analysis>
+<title>LB_NordstromL_LortSverige_1938_etext.txt</title>
+ <year_start>1930</year_start>
+   <year_end>1950</year_end>
+   <explanation>The text discusses various aspects of rural life and the changing roles of women in agriculture, which suggests a time period post-World War I (as evidenced by the mention of returning soldiers) but before significant changes in technology and farming practices that came about during the 1960s. The references to the government's agricultural policies and the lack of mechanization in farm work indicate a time period between the Great Depression and post-World War II, making the estimated start year 1930 and end year 1950.</explanation>
+</analysis>
+<analysis>
+<title>LB_SoderbergH_Forvillelser_1895_etext.txt</title>
+ <year_start>1905</year_start>
+   <year_end>1906</year_end>
+   <explanation>The narrative takes place around the time of the turn of the 20th century. The novel "A Brief Romance with Death" by Gustaf af Geijerstam, on which this text is based, was written in 1906. However, the text does not provide specific details that would pinpoint it to a certain year within 1905 or 1906. Some aspects and details used to decide on the start and end years are the use of horse-drawn carriages, the absence of modern technology such as telephones and radios, and the fact that the main character is attending high school (which would have been a relatively new development around that time).</explanation>
+</analysis>
+<analysis>
+<title>LB_AlmqvistCJL_TornrosensBok4_1834_faksimil.txt</title>
+ <year_start>1700s</year_start>
+   <year_end>1790s</year_end>
+   <explanation>The narrative takes place during the period of the Great Northern War (1700-1721) and the subsequent era known as the Era of Liberty and Constitution (1720-1792) in Sweden. The presence of the term "Voiontör" suggests that it is a Finnish soldier, which would correspond to the time period when Finland was under Swedish rule. Also, mention of the title "hertig Carl" refers to Charles XII of Sweden, who reigned from 1697 to 1718 and led his troops in the Great Northern War, although it is possible that the narrative takes place after his death but still within the Era of Liberty and Constitution. The term "kulor icke" is a Swedish phrase that refers to musket balls, which were used during this time period.</explanation>
+</analysis>
+<analysis>
+<title>LB_StrindbergA_DetNyaRiket1882_1882_faksimil.txt</title>
+ <year_start>1818</year_start>
+   <year_end>1824</year_end>
+   <explanation>The text mentions that the person being honored served as a member of the Swedish Council of State during King Charles XIII's reign, which started in 1818 and lasted until his death in 1844. However, the specific events detailed in the narrative seem to be concentrated between 1818 (when he was appointed President of the Supreme Court) and 1824 (when he became a real Privy Councilor). The person being honored also served as Riksmarskalk (Chancellor of the Realm) from 1824 until his death in 1833. So, while it's not entirely clear when this particular narrative takes place, the mentioned dates suggest that the events described in the narrative occurred between 1818 and 1824.</explanation>
+</analysis>
+<analysis>
+<title>LB_LagerlofS_LiljecronasHem_1911_etext.txt</title>
+ <year_start>1800s</year_start>
+   <year_end>1900s</year_end>
+   <explanation>The text refers to a rural setting with certain social norms and customs, such as the custom of a young woman staying at home until she marries (represented by Maja Lisa), which suggests a time period before modern urbanization. The use of a parson (the "Svartsjöprästen") also indicates a time in the past when the church played a more significant role in society. Additionally, the reference to a "Fänriken" suggests a military rank that was abolished in Sweden in 1902, placing the narrative in the decades before this year. However, without specific historical references or context within the text itself, it is difficult to pinpoint an exact year.</explanation>
+</analysis>
+<analysis>
+<title>LB_BjurstenH_TvaFlammor_1860_faksimil.txt</title>
+ <year_start>1860</year_start>
+   <year_end>1880</year_end>
+   <explanation>The narrative seems to be set in a time when the characters are familiar with the artistic and cultural milieu of the Romantic period. The mention of Cleopatra's asps and the use of symbolism such as roses, myrtle, and the depiction of death suggest themes common during this era. Additionally, the style of writing is reminiscent of the Romantic period with its focus on emotion, individuality, and nature. Moreover, the mention of a "målaren" (painter) implies a certain level of artistic sophistication that was more prevalent in the later half of the 19th century.</explanation>
+</analysis>
+<analysis>
+<title>LB_HanssonO_TidensKvinnor_1914_etext.txt</title>
+ <year_start>1889</year_start>
+   <year_end>1890</year_end>
+   <explanation>The narrative takes place during the time of the authors honeymoon trip, as indicated by the fact that it was written during their bröllopsresa (honeymoon) in 1889-1890. The specific events and locations mentioned in the text such as Holte, Berlin, Meudon and St. Légier sur Vevey also indicate the time period.</explanation>
+</analysis>
+<analysis>
+<title>LB_LagerlofS_GostaBerlingsSaga1910_1910_etext.txt</title>
+ <year_start>1813</year_start>
+   <year_end>1847</year_end>
+   <explanation> The story takes place between the years 1813 and 1847. This is inferred from the details provided about the character "den lille Ruster", who was a drummer in the Swedish army that invaded Germany in 1813. Additionally, there are several references to historical events and figures from the early 19th century, such as Napoleon and Charles XIV John (John III of Sweden), suggesting that the narrative occurs during this time period.</explanation>
+</analysis>
+<analysis>
+<title>LB_Anonym_Malaredramat_1900_faksimil.txt</title>
+ <year_start>1860s</year_start>
+   <year_end>1870s</year_end>
+   <explanation>The narrative appears to take place during the late 19th century, as evidenced by the descriptions of clothing, social norms, and technology. For instance, the mention of Eskils stad (Eskilstuna) suggests a Swedish setting, which was a rapidly industrializing city in the latter half of the 1800s. Additionally, the presence of telegraph lines, the use of boats for transportation, and the absence of modern communication technology such as telephones all point to this time period. The narrative also features the use of revolvers, which became more widespread during the second half of the 19th century.</explanation>
+</analysis>
+<analysis>
+<title>LB_AhnfeltA_BellmanskaSallskapet_1877_faksimil.txt</title>
+ <year_start>1790</year_start>
+   <year_end>1820</year_end>
+   <explanation>The narrative takes place during the late 18th and early 19th century, as evidenced by the mention of events such as the Catholic Church's suppression (which happened in 1795) and the ownership of Gripsholms Castle (which changed hands between the crown and nobility multiple times during this period). The details about Bellmanska Sällskapet, its members, and their relationships with other individuals and institutions further support this time frame.</explanation>
+</analysis>
+<analysis>
+<title>LB_JohanssonAMCJ_DenUndreVarlden_1907_faksimil.txt</title>
+ <year_start>1904</year_start>
+   <year_end>1906</year_end>
+   <explanation>The text provides a series of entries, each with a date in the format "Day Month Year". The earliest date mentioned is August 8, 1904, and the latest date is June 28, 1906. These dates are used to estimate the start and end years of the narrative.</explanation>
+</analysis>
+<analysis>
+<title>LB_StrindbergA_Giftas1884_1884_faksimil.txt</title>
+ <year_start>1860s</year_start>
+   <year_end>1880s</year_end>
+   <explanation>The narrative is set in a time period that spans from the 1860s to the 1880s. This is inferred from the details in the text such as the societal norms, cultural context, and the historical events mentioned or implied in the story. For instance, the protagonist's struggle for economic independence and legal rights mirrors the women's suffrage movement in Sweden that started gaining momentum during the late 1860s. Additionally, the narrative mentions a man named "Sundberg" who was a minister in the mid-1870s, suggesting that the story could have been set after that period. </explanation>
+</analysis>
+<analysis>
+<title>LB_Anonym_EttArAfEnVattendroppes_1861_faksimil.txt</title>
+ <year_start>1861</year_start>
+   <year_end>Undetermined</year_end>
+   <explanation>The narrative is a children's book titled "EN VATTENDROPPES LEFNAD" (A Waterdrop's Life) written by Sigfrid Flodin and published in Stockholm in 1861. The text mentions that the waterdrop freezes during winter and then thaws again in the spring, which suggests a yearly cycle. However, there is no specific mention of a beginning or end date within the narrative itself. Thus, while we can determine the publication year, it is not possible to definitively establish the start and end years for the events described in the narrative.</explanation>
+</analysis>
+<analysis>
+<title>LB_BenedictssonV_FranSkane_1884_etext.txt</title>
+ <year_start>1870</year_start>
+   <year_end>1890</year_end>
+   <explanation> The text refers to a time when the protagonist, Ola, was a servant or farm laborer. The description of his life and working conditions suggest that it is set in rural Sweden during the latter half of the 19th century. Additionally, the author, Selma Lagerlöf, wrote this story between 1870 and 1890, so it's reasonable to assume that the narrative takes place within this time frame.</explanation>
+</analysis>
+<analysis>
+<title>LB_HedbergF_KorpKirsti_1865_faksimil.txt</title>
+ <year_start>1800</year_start>
+       <year_end>1820</year_end>
+       <explanation>The narrative takes place in the early 19th century. The Dalpolska song "Hej och hopp och lustigt låt nu polskan gå" (1800), which is sung during the party, and the mention of Orsa, a municipality in Dalarna County, Sweden, suggest a location and time period. The Dalpolska music style emerged in the late 1700s but gained popularity in the early 19th century, which is why we can estimate that the narrative takes place between 1800 and 1820.</explanation>
+</analysis>
+<analysis>
+<title>LB_RosendahlCG_Ainamo_1866_faksimil.txt</title>
+ <year_start>1860</year_start>
+   <year_end>1866</year_end>
+   <explanation>The narrative takes place during the mid-19th century, as suggested by the historical context provided in the passage. The title of the book, "Björneborg," is also a Finnish city that was established around the mid-17th century but saw significant development and expansion during the 1800s. Furthermore, the characters in the narrative seem to be dressed in clothing common for the mid-19th century, such as the reference to "gyllene sky," which may suggest a romanticized or idealized vision of the era. The fact that the book was published in 1866 further supports this estimate.</explanation>
+</analysis>
+<analysis>
+<title>LB_BorkI_ValeteTheatren_1874_faksimil.txt</title>
+ <year_start>1600</year_start>
+   <year_end>1700</year_end>
+   <explanation>The narrative appears to take place in the late 17th century or early 18th century. This is inferred from several details:
+   1. The text makes reference to King Charles (Kong Carol) and Queen Ulrica, who ruled Sweden between 1654-1660 and 1680-1693 respectively, suggesting a timeframe that includes both their reigns.
+   2. The use of the term "Stora Dråning" (Great Drowning), which refers to the floods and storms in Sweden from 1750 to 1767, can be ruled out as it post-dates the reference to Queen Ulrica.
+   3. The language and style of the text also suggests a period that is not too distant from when it was written, which would likely place it in the late 1600s or early 1700s based on historical literary styles.
+   </explanation>
+</analysis>
+<analysis>
+<title>LB_OlausMagnus_HistoriaOmDeNordiskaFolken_2010_faksimil.txt</title>
+ <year_start>1500</year_start>
+   <year_end>1600</year_end>
+   <explanation>The narrative, titled "Köldens poet," appears to be set in Scandinavia during the late Middle Ages or early Modern period. The descriptions of everyday life, agriculture, and technology suggest a pre-industrial society with a strong reliance on manual labor and traditional craftsmanship. The text also contains references to various historical figures such as Gustav Vasa, who reigned in Sweden from 1523 to 1560, and Olaus Magnus, a bishop who wrote "Carta Marina" in the late 16th century. Furthermore, the mention of specific events like the Swedish War of Liberation against Denmark (1521-1523) supports this time frame. </explanation>
+</analysis>
+<analysis>
+<title>LB_QuennerstedtAxel_ITorneaOchUmea1_1901_faksimil.txt</title>
+ <year_start>1808</year_start>
+   <year_end>1809</year_end>
+   <explanation>The text mentions the "vinter 1808—1809" (winter of 1808-1809) and also references events that took place during the Finnish War, which occurred from 1808 to 1809. Additionally, the narrative refers to specific historical figures such as Karl den Tolvte (Charles XIII of Sweden), who reigned between 1809 and 1818.</explanation>
+</analysis>
+<analysis>
+<title>LB_KullbergKA_MinnenFranEnVistelse_1847_faksimil.txt</title>
+ <year_start>1800s</year_start>
+   <year_end>1900s</year_end>
+   <explanation>The text mentions several details that suggest it was written during the 1800s or early 1900s. For instance, the mention of 'Danviken' hospital, which was established in the late 17th century but became widely known in the 19th century, indicates a timeframe after its popularity had been established. Additionally, the use of phrases such as 'galen' (crazy) being replaced by 'Danviksmessig' and referring to hospitals generally as 'hospital' instead of more modern terms like 'clinic' or 'hospital ward' also suggest a period during which these linguistic practices were in common use. Furthermore, the mention of skating on frozen lakes indicates a time when such activities were feasible due to colder climates, which was more common during the late 1800s and early 1900s than it is today due to global warming.</explanation>
+</analysis>
+<analysis>
+<title>LB_FitzgeraldFS_DenStoreGatsby_1946_faksimil.txt</title>
+ <year_start>1920s</year_start>
+   <year_end>Early 1930s</year_end>
+   <explanation>The narrative takes place in the 1920s and early 1930s. This is inferred from several details in the text. Firstly, the mention of World War I, which ended in 1918, shows that the events described take place after this date. Secondly, the societal context, with its themes of disillusionment and cynicism among young people, suggests a post-World War I era. The Roaring Twenties were characterized by economic prosperity, cultural expansion, and social change in America, which fits well with the decadent atmosphere described in the text. Finally, the fashionable but worn-out dresses that Daisy wears indicate a period when wealth was abundant but its value had begun to decline, a phenomenon more typical of the 1920s than earlier decades.</explanation>
+</analysis>
+<analysis>
+<title>LB_LagerlofS_LowenskoldskaR_1925_etext.txt</title>
+ <year_start>1800s</year_start>
+   <year_end>1800s</year_end>
+   <explanation>The text does not provide specific details about the time period, but based on the clothing and societal norms mentioned (such as a baron and friherrinna, the mention of Hedeby which was an actual town in the 1800s), it can be inferred that the narrative takes place during the 1800s. The exact year is not determinable from the text provided.</explanation>
+</analysis>
+<analysis>
+<title>LB_Anonym_EnNyVisaOmMalaredramat_1905_faksimil.txt</title>
+ <year_start>1905</year_start>
+   <year_end>1906</year_end>
+   <explanation>The text mentions the year 1905 in the context of the Eskilstuna incident, where Nordlund was captured. Additionally, the details about the "Köping" steamship suggest that the narrative is set during a time when steamships were common, which makes it unlikely to be before the early 20th century. The steamship "Köping" was in service between 1895 and 1936, but its construction year would likely fall somewhere around the late 1890s given technological advancements at that time. Since the narrative seems to take place after Nordlund's capture (1905), it is reasonable to assume that the end year is either 1906 or a few years following Nordlund's trial and conviction, which occurred in 1907.</explanation>
+</analysis>
+<analysis>
+<title>LB_Anonym_EnVisaOmMartinArosin_1849_faksimil.txt</title>
+ <year_start>1849</year_start>
+   <year_end>1850</year_end>
+   <explanation> The poem was written in Stockholm, Sweden in 1849 and the title refers to a former cellar master named Martin-Arosin. The song suggests that this person neglected his child and is now deceased. In Swedish society at that time, neglecting one's children was considered unacceptable and could potentially lead to public shaming or even criminal charges. The exact year of the events described in the poem can't be determined from the text, but it is reasonable to assume they happened within a year of 1849 as the child would likely still have been young when neglected if Martin-Arosin died shortly after. </explanation>
+</analysis>
+<analysis>
+<title>LB_WijkanderO_Prolog_1888_faksimil.txt</title>
+ <year_start>1832</year_start>
+   <year_end>1858</year_end>
+   <explanation>The text appears to be a narrative about the Swedish king Karl XIV Johan, who reigned as King of Sweden from 1818 to 1844 and as King of Norway from 1818 to 1844 under the name Karl III Johan. The start year is estimated to be 1832 since the text mentions a "Third" Karl, suggesting that it refers to the third king with this name (the first being Carl XIII, who reigned from 1791 to 1809, and the second being Karl John, who reigned as Karl III from 1809 to 1818). The end year is estimated to be 1858 since the text mentions a "northern lights glimmer" coming from the third Karl, which suggests that the narrative takes place after his death in 1858. Additional details that support this estimation are the use of the Swedish language and references to cultural practices specific to Sweden during the mid-19th century.</explanation>
+</analysis>
+<analysis>
+<title>LB_MellinGH_EttForsok1_1855_faksimil.txt</title>
+ <year_start>1800s</year_start>
+   <year_end>1850s</year_end>
+   <explanation>The narrative takes place during the 19th century. The presence of a missionary character (VI. En Missionär) and references to Liljevik (IX. Fjellfärd om vintern), which was an important trading post in the late 1700s and early 1800s, suggests that it occurs during or after the era of Swedish rule in Finland. The clothing and lifestyle described in the story are also consistent with the mid to late 1800s.</explanation>
+</analysis>
+<analysis>
+<title>LB_Anonym_GubbarnePaPressyltan_1893_faksimil.txt</title>
+ <year_start>1891</year_start>
+   <year_end>1900</year_end>
+   <explanation>The text provides several clues that suggest the narrative takes place at the end of the 19th century. The book "Stockholm Nya Boktryckeriet" is from 1891, and the text mentions "Tid-nings-Boije", a newspaper known to have been published between 1887 and 1903. Furthermore, there are references to known authors such as Zola, who was active in the late 19th century, and the setting of Stockholm nightlife suggests a modern urban environment that would be more recognizable at the end of the century. The characters mentioned also seem to be familiar with contemporary literature and culture, further supporting the idea of a late 19th-century setting.</explanation>
+</analysis>
+<analysis>
+<title>LB_PfeifferS_SofieHagman_1887_faksimil.txt</title>
+ <year_start>1768</year_start>
+   <year_end>1793</year_end>
+   <explanation>The narrative takes place during the time of Gustav III's reign, known as "Tjusarkonungens brokigt skiftande tidehvarf" (the troubled tide-harbor of the jolly king). Sofie Hagman is a young woman who rises from her humble beginnings to become an object of attention for members of the Swedish high society and even the royal family. The text mentions several historical figures such as Duke Fredrik, Gustaf Adolf (the future Gustav IV Adolf), and King Gustaf III himself. The first mention of Sofie Hagman is in 1768 when she attends the celebrations for the birth of Prince Gustaf Adolf, and the novel concludes during the panic caused by the assassination attempt on King Gustaf III in 1793. Therefore, we can estimate that the narrative takes place between 1768 and 1793. </explanation>
+</analysis>
+<analysis>
+<title>LB_ChytraeusB_KusinCallesAfventyrVidLandtbruksmotet_1868_faksimil.txt</title>
+ <year_start>1862</year_start>
+   <year_end>1863</year_end>
+   <explanation> The text mentions the Landtbruksmöte (Agricultural Fair) which took place in Stockholm on 25-27 May, 1863. This event is a significant detail that helps to establish the approximate time period of the narrative. Additionally, the mention of Oskar II who reigned from 1872 to 1907 as King of Sweden and Norway suggests that the events occurred before his reign began. Thus, we can infer that the narrative likely takes place between 1862 (the year prior to the Agricultural Fair) and 1863 (when the Agricultural Fair took place).</explanation>
+</analysis>
+<analysis>
+<title>LB_AhrenbergJ_Hihuliter_1889_faksimil.txt</title>
+ <year_start>1860</year_start>
+   <year_end>1920</year_end>
+   <explanation>The narrative takes place in a rural Finnish community, as indicated by the use of folk terms and descriptions of farm life. The mention of Paulus (a common name for a parish school teacher during this period) and the lack of modern technology such as electricity or telephones further support this setting. Additionally, the use of the Lutheran Church's "Protokoll" and the presence of a "länsmannen" (Swedish for sheriff), suggest that the story is set in the Grand Duchy of Finland under Russian rule, which lasted from 1809 to 1917. However, given the lack of specific details about historical events or technological advancements, it's difficult to narrow down the exact time period more precisely.</explanation>
+</analysis>
+<analysis>
+<title>LB_PihlstrandR_GrefvenAfSverige_1887_faksimil.txt</title>
+ <year_start>1890</year_start>
+        <year_end>1895</year_end>
+        <explanation>The narrative takes place in a time period when steamships like the "oceanångarne" (ocean liners) were common, which suggests that it's set in the late 19th century. Additionally, the mention of Mr. Warburton going on an upptäcktsresa (discovery expedition) after his daughter also indicates a late 19th-century setting, as the concept of exploration and discovery expeditions was popular during this era. The novel's humorous tone and focus on social issues such as wealth and gender roles are also characteristic of literature from the late Victorian period.</explanation>
+</analysis>
+<analysis>
+<title>LB_SoderbergH_MartinBircks_1901_etext.txt</title>
+ <year_start>1875</year_start>
+   <year_end>1886</year_end>
+   <explanation>The narrative takes place in the time period from 1875 to 1886. This is based on the context of the text, specifically the mention of a certain winter night (implying a specific year) and the events that take place within it. The characters in the story are children, suggesting that the events happened during their childhood or adolescence. Given that the main character, Oskar, is described as a student in university at the end of the narrative, we can estimate that he would have been around 18-20 years old when the events occurred. Since it's likely that these events took place before Oskar went to university (which could have taken several years), we can reasonably assume that the narrative takes place between 1875 (when Oskar was a child) and 1886 (when he would have been around 20).</explanation>
+</analysis>
+<analysis>
+<title>LB_LagerlofS_NilsHolgersson2_1907_etext.txt</title>
+ <year_start>1800s</year_start>
+   <year_end>Early 20th century</year_end>
+   <explanation>The narrative, titled "Sagan om Tummetott," is a collection of Swedish folktales, many of which have been passed down orally for centuries. However, the specific tale about Tummetott was first published in 1906 by Victor Rydberg, although it is based on earlier versions of the story. The details in the text that suggest the time period are the mention of various locations and events that have historical context in the 1800s and early 20th century. For example, the tale refers to a time when ironworks (Järnverket) were prevalent, which was around the mid-to-late 19th century in Sweden. Additionally, the story mentions a Valborgsmässoafton (May 30), which is a holiday that started being widely celebrated in Sweden during the 1800s. The use of traditional folktales and historical context clues help to estimate the time period when the narrative takes place.</explanation>
+</analysis>
+<analysis>
+<title>LB_BergdahlE_IMariaSandelsSpar_2017_faksimil.txt</title>
+ <year_start>1900</year_start>
+   <year_end>1927</year_end>
+   <explanation>The text provides descriptions of various places and buildings on Kungsholmen, where Maria Sandel lived her entire life. The time period is indicated by the years in which she wrote her books (6 books between 1900 and 1927) and contributed to the labor press with poems and short stories. Additionally, details such as the presence of street names that were established around 1900 (e.g., Mariebergsgatan, where Sandel lived from 1905-1927) support this estimated time frame.</explanation>
+</analysis>
+<analysis>
+<title>LB_MellinGH_Skildringar2_1857_faksimil.txt</title>
+ <year_start>1800s</year_start>
+   <year_end>1850s</year_end>
+   <explanation>The narrative takes place in a time period where the Lapps (also known as Sami) are mentioned as living with their own culture and customs, which indicates that it is likely after the early modern period when the Sami were subjected to increasing assimilation by Swedish authorities. The use of words like "fjell" (mountain) and "nejden" (valley), along with other Scandinavian terms in the title and the text, suggests a setting in Sweden or Norway during the 19th century when these countries were using such language more commonly. Furthermore, the mention of modern advancements such as steamships and the reference to the "Skandinaviska Nordens natur" (the Scandinavian North's nature) also point towards a time period after the industrial revolution.</explanation>
+</analysis>
+<analysis>
+<title>LB_WahlstromOF_StockholmskaNatter_1889_faksimil.txt</title>
+ <year_start>1850</year_start>
+   <year_end>1850</year_end>
+   <explanation> The text does not provide specific dates, but it mentions a "gamla Stockholm" (old Stockholm) and refers to the abolition of Bachi's temple service, which was actually abolished in 1849. Therefore, I have estimated that the narrative takes place in 1850.</explanation>
+</analysis>
+<analysis>
+<title>LB_AlmqvistCJL_TornrosensBok7_1835_faksimil.txt</title>
+ <year_start>1780</year_start>
+   <year_end>1781</year_end>
+   <explanation>The text provides several clues that suggest the narrative takes place over the course of a year, starting in late spring or early summer and ending around the same time the following year. The text mentions "this half-year" several times, indicating that it is approximately half of a year.
+   Additionally, the text describes the protagonist as having not seen his lover for an entire year (a "half-year") according to their agreement. This suggests that the narrative starts around the time they made this agreement, which was likely late spring or early summer of the previous year.
+   The protagonist also mentions that he has been waiting a half-year for his lover's Nattvardsgång (Communion), which typically occurs during the Easter season in Sweden at the time. Since the text takes place around Easter, this suggests that it is either late spring or early summer of the current year.
+   Finally, the protagonist mentions that his father has been away for a half-year due to "the rysligaste af alla plågor" (the most terrible of all pains), which could refer to a military campaign, as Sweden was at war with Russia at the time. This suggests that the narrative takes place during or shortly after the Seven Years' War, which began in 1756 and ended in 1763. Therefore, we can estimate that the narrative takes place between 1780 (the midpoint of the Seven Years' War) and 1781 (one year later).</explanation>
+</analysis>
+<analysis>
+<title>LB_BoyeK_Kris_1934_etext.txt</title>
+ <year_start>1950</year_start>
+   <year_end>1963</year_end>
+   <explanation>The text "Vi protestanter tror ju inte att katolikerna är förtappade" and the context of the narrative suggest a post-WWII era, specifically after the Council of Trent (1545-1563) which established many differences between Protestantism and Catholicism. The mention of seminarieavslutning (seminary graduation) also points to a time when higher education institutions for women were becoming more common in Sweden, which started to happen around the 1950s but gained momentum during the 60s. Additionally, the song "O du lummiga lund" is a well-known Swedish folk song from the 18th century, but it was popularized again in the mid-20th century, which supports our estimated time frame.</explanation>
+</analysis>
+<analysis>
+<title>LB_Anonym_Den30November1868_1882_faksimil.txt</title>
+ <year_start>1868</year_start>
+   <year_end>1870</year_end>
+   <explanation>The narrative takes place between the years 1868 and 1870. This estimation is based on the title of one of the books listed, "Illustrerade Londons Mysterier," which was first published in 89 numbers from year 1878 according to the text. However, the book is now being sold as a complete edition for roughly half the original price, suggesting it was likely originally published over a decade earlier, possibly around the 1860s. Additionally, the title "Lyckans Gunstlingar" (Swedish for "The Fortunate Ones") gives a hint of the end of the nineteenth century, but since no specific year is mentioned, a range of years towards the end of the century seems reasonable.</explanation>
+</analysis>
+<analysis>
+<title>LB_LagerlofS_EttBarnsMemoarer_1930_etext.txt</title>
+ <year_start>1860</year_start>
+    <year_end>1864</year_end>
+    <explanation> The narrative takes place during the childhood of the protagonist, Agnes von Årnes, who is described as a young girl and not yet grown up. It is known that she was born in 1859 (Agnes Laurell, one of the main characters, mentions her own age). The events in the narrative occur before her marriage to Gustaf von Årnes in 1864. Detailed references to places and people in the text also suggest that the narrative is set in Sweden during the mid-19th century.</explanation>
+</analysis>
+<analysis>
+<title>LB_RydbergV_SingoallaSVS_1941–1968_faksimil.txt</title>
+ <year_start>12th century</year_start>
+   <year_end>13th century</year_end>
+   <explanation>The narrative takes place in the Middle Ages, as indicated by the presence of knights, castles, and religious orders such as the Templars. The specific time period is suggested by the mention of the Crusades, which began in the late 11th century and ended in the 13th century. Additionally, the setting of the narrative in Småland, Sweden, places it during a time when this region was largely rural and not urbanized, which was more common in later centuries. </explanation>
+</analysis>
+<analysis>
+<title>LB_WagnerE_Pennskaftet1910_1910_etext.txt</title>
+ <year_start>1890</year_start>
+   <year_end>1895</year_end>
+   <explanation>The narrative takes place in the late 19th century, specifically between the years 1890 and 1895. This is inferred from the details of the setting, such as the description of the characters' clothing (specifically Pennskaftet's nattdräkt), which suggests a fashion style typical of the late 1800s. Additionally, the use of old-fashioned language and phrasing further supports this inference.</explanation>
+</analysis>
+<analysis>
+<title>LB_AngeredStrandbergH_LydiaVik_1904_etext.txt</title>
+ <year_start>1890</year_start>
+   <year_end>1892</year_end>
+   <explanation>The text provides several clues that suggest the narrative takes place around the late 19th century. The characters' names, Lydia and Måns, are common Scandinavian names from this era. Additionally, the phrase "hustru som räddar husets förlorade ära genom att – besegra sin lilla skötesynd, storartadt!" (A wife who saves the dishonored honor of the house by defeating her little maiden, most magnificently!) suggests a traditional and patriarchal society, which was more common in the late 19th century. Furthermore, the mention of "stormen på många, många små vingar" (the storm on many, many small wings) could refer to the widespread use of small aeroplanes or airships that emerged around this time. These planes were first developed in the late 19th century and became more widespread in the early 20th century.</explanation>
+</analysis>
+<analysis>
+<title>LB_LagerlofS_KejsarnAvPortugallien_1914_etext.txt</title>
+ <year_start>1860</year_start>
+   <year_end>1872</year_end>
+   <explanation>The story takes place in a rural Swedish village during the mid-to-late 19th century. Key details that support this time period include references to events such as the smallpox vaccination (circa 1860s) and the mention of the new landlord who acquired the estate around 1872, identified as "August Där Nol". The fact that the protagonist, Klara Gulleborg, is compared to the sun during the story also suggests a time period when solar imagery was more common in literature. This connection between Klara and the sun could be seen as a metaphor for her radiant beauty and purity, which are qualities often associated with the sun in religious and mythological contexts.</explanation>
+</analysis>
+<analysis>
+<title>LB_LindholmPA_PrinsenAfLappland_1891_faksimil.txt</title>
+ <year_start>1709</year_start>
+   <year_end>1709</year_end>
+   <explanation>The narrative takes place in the year 1709. The story revolves around the events of the Great Northern War and the fate of the fictional character "Nils Örn" (later Örnberg), who joined the Swedish army during this time. The battle of Poltava occurred on July 27, 1709, which was a significant event in the Great Northern War, further supporting the estimated year as 1709.</explanation>
+</analysis>
+<analysis>
+<title>LB_Anonym_SmaflickornasLekar_1895_faksimil.txt</title>
+ <year_start>1895</year_start>
+   <year_end>Early 20th Century</year_end>
+   <explanation>The start year is derived from the publication date of the book which is 1895. However, it's important to note that the narrative might not necessarily take place in the same year as the publication. The end year cannot be precisely determined from the provided text, but based on the customs and clothing descriptions, it seems likely that the narrative takes place around the early 20th century due to references to a doll's tea party (implying a more Victorian-era setting) and a bal (a dance event which became popular in Sweden around the late 19th or early 20th century).</explanation>
+</analysis>
+<analysis>
+<title>LB_AnderssonD_DeTreHemlosa_1918_etext.txt</title>
+ <year_start>1870</year_start>
+   <year_end>1873</year_end>
+   <explanation>The novel "Kristus och de tio tusen" (Christ and the Ten Thousand) by Selma Lagerlöf was published in 1909. However, the narrative takes place during the 1870s, as evident from the historical context of the story. The characters reference the Franco-Prussian War which took place between 1870 and 1871, and there are mentions of the Swedish parliament's decision to ban alcohol in rural areas in 1872 (the law was passed on March 3, 1873). Furthermore, the character David is a young boy who grows up to be a man during the story. Considering these details, it can be safely assumed that the narrative takes place between 1870 and 1873.</explanation>
+</analysis>
+<analysis>
+<title>LB_BlancheA_Banditen_1848_faksimil.txt</title>
+ <year_start>1860</year_start>
+   <year_end>1915</year_end>
+   <explanation>The text "Albert!" is spoken by a character named Krou, who seems to be an educated man based on his ability to speak multiple languages (as implied in the story's original Swedish title "Till skillnad från många andra berättelser om trollmänniskor är detta en berättelse om en trollkvinna"). The use of the name Krou, which is a short form of Albert, suggests that the narrative takes place in the late 19th or early 20th century when such names were still in common use. Also, the presence of electric light bulbs and golf playing indicates a relatively modern setting, making it likely to be after the invention of both (around the late 1870s for the incandescent light bulb and the early 20th century for golf).</explanation>
+</analysis>
+<analysis>
+<title>LB_CederborghF_OttarTralling1_1810_faksimil.txt</title>
+ <year_start>1700s</year_start>
+   <year_end>1790s</year_end>
+   <explanation>The text mentions several historical and cultural details that suggest it takes place during the 18th century. For example, the mention of Stockholm suggests a setting in Sweden or Scandinavia, as it was an important city during this time period. The author's use of the term "Majorn" to refer to a military officer is also indicative of the 18th century, as the Swedish military rank of Majoren was used during this time period. Additionally, the author's description of Anna Stina as a servant in the Assessor Fnaskerdt's household and the mention of her tasks such as washing dishes and cleaning suggest a lower social class for both characters, which was more common in the 18th century than in later periods. </explanation>
+</analysis>
+<analysis>
+<title>LB_MallingM_BertaFuncke_1885_etext.txt</title>
+ <year_start>1890</year_start>
+   <year_end>1920</year_end>
+   <explanation>The narrative takes place during the late 19th and early 20th centuries. This estimation is based on a few key aspects and details in the text. Firstly, the social norms and expectations of the characters, such as the emphasis on courtship, propriety, and traditional gender roles, align more with the late Victorian era (late 19th century) than later periods. Secondly, the fashion described in the text, specifically the use of a peignoir (a loose-fitting robe worn for sleeping or lounging), was popular during this time period. Lastly, the setting, which includes references to golf and cars, suggests a time frame closer to the turn of the 20th century when these luxuries became more common.</explanation>
+</analysis>
+<analysis>
+<title>LB_HanssonO_FruEsterBruce_1900_faksimil.txt</title>
+ <year_start>1870</year_start>
+   <year_end>1890</year_end>
+   <explanation>The narrative takes place in a time period when the characters use horse-drawn carriages, which were gradually replaced by automobiles around the turn of the 20th century. The fashion mentioned (crinolines for women and tailcoats for men) were popular in the late Victorian era, specifically from the 1870s to the early 1900s. Furthermore, the social norms and values depicted in the text suggest a time period closer to the end of the 19th century.</explanation>
+</analysis>
+<analysis>
+<title>LB_StrindbergA_OckultaDagboken3_2012_faksimil.txt</title>
+ <year_start>1896</year_start>
+   <year_end>1908</year_end>
+   <explanation>The text provided consists of titles and descriptions of August Strindberg's works, primarily focusing on his "Occult Diary" (Ockulta Dagbok) which was written between 1896 and 1908. Other works that are mentioned have publication dates ranging from 1896 to 1928 but they are either unrelated or not central to the context of the Occult Diary, thus we can infer that the narrative takes place during Strindberg's life between 1896 and 1908.</explanation>
+</analysis>
+<analysis>
+<title>LB_AngeredStrandbergH_DenNyaVarlden_1898_etext.txt</title>
+ <year_start>1800</year_start>
+   <year_end>1920</year_end>
+   <explanation>The narrative takes place during the late 19th and early 20th centuries. This is inferred from the use of words like "mechanically," "mekaniskt" (Swedish), which suggests the presence of industrial machinery, as well as references to trains and telegraphs, both of which were more common during this time period than earlier. Additionally, the narrative depicts a society undergoing significant social changes, similar to those that occurred during the Industrial Revolution and the early 20th century.</explanation>
+</analysis>
+<analysis>
+<title>LB_OstmanK_DeDodaSagverken_2012_faksimil.txt</title>
+ <year_start>1890</year_start>
+   <year_end>1935</year_end>
+   <explanation>The estimated time period of the narrative is from around 1890 (when Pär Nääs, one of the characters mentioned in the text, was born) to approximately 1935 (the year when Karl Östman wrote the series of articles about the dead sawmills on Alnö). This estimation is based on biographical details about Pär Nääs and other characters, as well as the context provided by Karl Östman himself in the introduction to the series of articles. Additionally, the narrative includes references to events such as the construction of Norra Nyhamn (a port in Sundsvall) which were completed around 1904, and the Great Depression of the 1930s, which provides a rough end date for the time period covered by the text. </explanation>
+</analysis>
+<analysis>
+<title>LB_SandelM_DropparIFolkhavet_1924_etext.txt</title>
+ <year_start>1900</year_start>
+   <year_end>1920</year_end>
+   <explanation>The narrative contains several details that suggest it takes place at the beginning of the 20th century. For instance, the use of a telegraph is mentioned in the text ("Ansgar riskerar en explosion"), which was still a common means of communication during this period but fell out of widespread use after the 1920s due to the advent of telephones and radios. Additionally, the setting seems to be rural or small-town Sweden, as there is no mention of electricity or modern infrastructure. The details about clothing and fashion also suggest the early 1900s, such as Gerda's "gammaldags" (old-fashioned) way of living and her need for a good upbringing. However, it is important to note that this is an educated guess based on the text and may not reflect the exact historical context in which the narrative was written.</explanation>
+</analysis>
+<analysis>
+<title>LB_BergdahlE_TraruckelNodbostader_2015_faksimil.txt</title>
+ <year_start>1890s-1900s</year_start>
+   <year_end>Early 1900s</year_end>
+   <explanation>The narrative takes place in a time when Fleminggatan, as described by the young woman's iakttagelser, still had factories, warehouses, dairies, and cafes. This would suggest a time frame prior to its modernization, which appears to have happened after the early 1900s. Additionally, details such as the setting in Stadshagen and the references to the working class (factory girls and factory boys) further support this estimation.</explanation>
+</analysis>
+<analysis>
+<title>LB_StrindbergA_Hemsoborna1887_1887_faksimil.txt</title>
+ <year_start>1860s</year_start>
+   <year_end>1900s</year_end>
+   <explanation>The text provided is a list of novels published in the late 19th century. The novels are mainly historical or romantic, with themes such as courtship and marriage, suggesting that they take place during the Victorian era. Additionally, some titles mention specific events like the U.S. Civil War (e.g., "The Sins of the Fathers"), which occurred between 1861-1865, further confirming that the time period for the narratives lies within the late 19th century.</explanation>
+</analysis>
+<analysis>
+<title>LB_MontgomeryLM_AnnePaGronkulla_1909_faksimil.txt</title>
+ <year_start>1890</year_start>
+   <year_end>1905</year_end>
+   <explanation>The narrative takes place in a rural setting and mentions the use of horse-drawn carriages, lanterns, and bonfires. These details suggest that it is set at some point during the late 19th century. Additionally, the mention of a "bonfire night" strongly indicates that the story takes place around November 5th, which is Guy Fawkes Day in the United Kingdom. This holiday originated in the late 17th century but gained widespread popularity in the 19th century as part of Victorian traditions. Therefore, the estimated start year and end year are between 1890 (when Guy Fawkes Day became a popular tradition) and 1905 (the end of Queen Victoria's reign).</explanation>
+</analysis>
+<analysis>
+<title>LB_StrindbergA_RodaRummet1880_1880_faksimil.txt</title>
+ <year_start>1860</year_start>
+   <year_end>1870</year_end>
+   <explanation>The text mentions the presence of Falk in the Rikssalen (Swedish parliament) as a herald during the delivery of a royal speech by the Minister, an event that was not common before the mid-19th century. Additionally, the narrative references the existence of secret societies such as reaction and iron rule, which were prominent during the Second Reformation in Sweden that took place between 1848 and 1859. The main character Falk's occupation as a numismatist (a scholar of coins) also suggests a period when this field was gaining popularity, which was particularly true in the later part of the 19th century.</explanation>
+</analysis>
+<analysis>
+<title>LB_LindholmPA_Lappfolk_1908_faksimil.txt</title>
+ <year_start>1730</year_start>
+   <year_end>1740</year_end>
+   <explanation>The narrative takes place during the 18th century, as evidenced by references to the market in Lycksele and the mention of Lagens väktare (Lawman Granman). The exact start year cannot be determined with certainty, but it is likely around 1730 since the story revolves around the settlement of a new area, which is consistent with the expansion of Swedish colonization efforts during this period. The end year is estimated to be around 1740 as it provides enough time for events such as the death of Sjallo Kaurasson and the resolution of legal proceedings.</explanation>
+</analysis>
+<analysis>
+<title>LB_AnderssonD_Kolarhistorier_1914_etext.txt</title>
+ <year_start>1890</year_start>
+   <year_end>1915</year_end>
+   <explanation> The narrative appears to take place in a rural, agrarian setting where the main character, M., is engaged in activities such as farming and hunting. The story also references "halvveckotidningen," which was a popular Swedish newspaper that ran from 1890 to 1974. Additionally, the use of terms like "inspektör" (inspector) suggests a time period when Sweden was transitioning into a more industrialized society. </explanation>
+</analysis>
+<analysis>
+<title>LB_Anonym_Blomsterflickorna_1897_faksimil.txt</title>
+ <year_start>1880</year_start>
+   <year_end>1900</year_end>
+   <explanation>The narrative takes place in the late 19th century, based on several details and context clues. The use of the term "byråpolisens stora och heliga bok" refers to a registry system that was established by the Swedish police force around 1885 to keep track of prostitutes and other sex workers. Additionally, the mention of Thyra's name being registered in the "bok" indicates that the events depicted occurred after this system was put into place. Furthermore, the reference to the Handtverkaregatan (a street known for its hospitals) suggests a location in Stockholm, where such a registry system was first implemented. The narrative also mentions Rosali being a prostitute and being admitted to a hospital for venereal disease, which were significant issues during this time period due to the rapid urbanization and industrialization that took place in Sweden during the late 19th century.</explanation>
+</analysis>
+<analysis>
+<title>LB_HedbergF_MellanBjudningarna_1884_faksimil.txt</title>
+ <year_start>1890</year_start>
+   <year_end>1910</year_end>
+   <explanation>The narrative appears to take place during the late 19th and early 20th centuries, based on several clues. For instance, in the story "Ett Stockholmsgeni," the main character is described as a student who attends a university that has been open for more than 300 years, which suggests it was founded in the 17th century or earlier. However, no universities in Sweden were established before the late 1500s. Therefore, we can infer that the setting of the narrative is at least in the 1600s and has evolved through subsequent centuries.
+
+   The inclusion of characters such as "öfverste" (general) suggests a period when Sweden still had an active military aristocracy, which was phased out around the turn of the 20th century. Additionally, many of the titles and social positions mentioned in the narratives are reminiscent of the ancien régime, indicating a pre-industrial or early industrial society.
+
+   Furthermore, technological advancements provide additional context for the timeline. For example, in "Studentens majnatt," the main character uses a telephone to communicate with his loved one, which was not widely available until the late 1800s. Thus, we can estimate that the narrative takes place between the end of the 19th century and the beginning of the 20th century.</explanation>
+</analysis>
+<analysis>
+<title>LB_ElkanS_JohnHall_1899_etext.txt</title>
+ <year_start>1800</year_start>
+   <year_end>1812</year_end>
+   <explanation>The text provides several clues to determine the time period. First, the narrative mentions events such as "Comedie in the Hallska palatset" (which was performed between 1786 and 1803), "When the king saved Göteborg" (1794), and "Björnbergska kriget" (a war between Sweden and Norway that took place from 1805 to 1809). Additionally, the text mentions the existence of Magister Alm, who is depicted as an older man, waiting for news about young John Hall. The character of Magister Alm and his role in the narrative suggest that he has been active for some time before the events described, which points to a start date earlier than 1805. Furthermore, the mention of "När gamle John Hall dog" (When old John Hall died) suggests that young John Hall was still alive at the beginning of the narrative but died later. The death of old John Hall is not explicitly mentioned in the text, but the narrative's structure and themes suggest that it occurred before 1812, which marks the end of the time period for the narrative.</explanation>
+</analysis>
+</root>
